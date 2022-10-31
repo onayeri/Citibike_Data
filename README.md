@@ -2,9 +2,10 @@
 
 ## Overview of the Project:
 ##### The purpose of the analysis was to use Tableau to illustrate specif parts of the City Bike data set. Using tableau I was able to create charts that allowed me to choose specific variables within the data that I wanted to see the relationship for. Along with picking the independent and dependent variables for each chart, I was able to go in much more depth by filtering the data by specific time measures and attibutes to compare the data across different populations and sugroups. 
-The first Deliverable allowed me to veiw the data in jupyter and change the datatype for the datetime column in the dataset and reexport the edited CSV. This would allow me to use the proper date variable in tableau and prepare the Second deliverable which consisted of 5 different charts that build upon one another. 
+##### The first Deliverable allowed me to veiw the data in jupyter and change the datatype for the datetime column in the dataset and reexport the edited CSV. This would allow me to use the proper date variable in tableau and prepare the Second deliverable which consisted of 5 different charts that build upon one another. 
 ---
-## Results:
+## Results: 
+#### [Results Link Here](https://public.tableau.com/app/profile/olivia.nayeri/viz/Citibike_data_16648122430570/CheckoutTimesforUsers?publish=yes)
 ### Checkout Time for Users
 ##### The first graph that I created is a line graph that is focused on the checkout times forbike users. To create this visual I used the Trip duration variables in the columns selection and filtered one for hours and the other for minutes. This helped create an x-axis with a timeline ticked by minutes , but segmented by hour. The y-axis is measured by the number of bikes by putting the bike count variable in the rows. The tripduration was filtered over the course of three hour segments to get a good idea of the number of bikes used for certain durations of time. The peak user value is shown at the 5 minute trip duration time stamp. 
 
